@@ -112,5 +112,5 @@ Visit `http://localhost:5173` in your browser.
 ## 🙋 Author
 
 **Bhavani B**  
-MCA Student | Aspiring Full Stack Developer  
+MCA Student 
 [GitHub](https://github.com/Bhavani-1010)
